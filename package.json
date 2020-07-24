@@ -1,0 +1,19 @@
+{
+  "name": "solidity-sandbox",
+  "version": "1.0.0",
+  "description": "Personal sandbox to explore Solidity",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ingo Weiss",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "web3": "^1.2.11"
+  },
+  "engines": {
+    "node": "^12.18.2",
+    "npm": ">=6.14.5"
+  }
+}
